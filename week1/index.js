@@ -12,3 +12,18 @@ Example => C++, Java, Rust, Golang
 //Interpreted Language => Usually Line to line 
 // can run partially if error comes later 
 Example Javascript Python
+
+//Static vs Dyanamic 
+
+//static => strict 
+// dynamic => loosely types
+
+//Single Threaded nature of JS
+// In single-threaded applications, there is only one thread of execution. This thread processes tasks or instructions one after the other, without multitasking.
+
+const a=1;
+
+console.log(a);
+
+//VAR
+// var is the oldest way to declare variables in JavaScript. It has been part of the language since its inception, but due to some of its quirks, it’s less commonly used in modern JavaScript.
